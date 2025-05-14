@@ -43,6 +43,5 @@
 
 <p align="left">
   <a href="mastermern3@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" /></a>
-  <a href="mern2025@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook.png" width="30" alt="Outlook Email"/></a>
   <!-- Add more social icons if needed -->
 </p>
