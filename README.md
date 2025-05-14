@@ -26,7 +26,12 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mernmaster2025&theme=radical&margin-w=15&no-bg=true&no-frame=true" />
+</p>
+---
 ### 📊 GitHub Stats
 
 <p align="center">
