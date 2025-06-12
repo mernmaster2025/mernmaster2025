@@ -10,6 +10,9 @@
 
 ---
 
+## Open Source Contributions
+- [Repository Name](https://github.com/Expensify/App): Contributed to UI improvements, bug fixes.
+- 
 ### 🚀 Tech Stack
 
 **Languages & Frameworks:**
