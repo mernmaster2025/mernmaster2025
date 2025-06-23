@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Oleh Orlichenko</h1>
+<h1 align="center">Hi 👋, I'm a Mern Master</h1>
 <h3 align="center">MERN & Blockchain Developer | Passionate about React, React-Native, Web3, Smart Contracts & Scalable Web Apps</h3>
 
 - 🔭 I’m currently working on **Web3 & Full-stack JavaScript applications**
 - 🌱 I’m exploring **Solidity, Layer 2 scaling, and smart contract security**
 - 👯 I’m looking to collaborate on **dApps, DeFi protocols, or innovative MERN projects**
-- 💬 Ask me about **JavaScript, React, React-Native, NestJS, Node.js, Solidity, and Ethereum**
+- 💬 Ask me about **JavaScript, React, React-Native, NestJS, Node.js, Flutter and Laravel**
 - 📫 How to reach me: **mastermern3@gmail.com**, **mern2025@outlook.com**
 - ⚡ Fun fact: **I love building things that live on the blockchain**
 
@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=flutter.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=laravel.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=react-native.js&logoColor=white"/>
 </p>
 
 ---
@@ -41,9 +44,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mernmaster2025&show_icons=true&theme=radical" alt="Oleh's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mernmaster2025&show_icons=true&theme=radical" alt="Mern's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mernmaster2025&theme=radical" alt="Oleh's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mernmaster2025&theme=radical" alt="Mern's GitHub streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mernmaster2025&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
