@@ -1,6 +1,3 @@
-## Open Source Contributions
-- [Expensify/App](https://github.com/Expensify/App): Contributed to UI improvements, bug fixes.
-  
 <h1 align="center">Hi 👋, I'm a Mern Master</h1>
 <h3 align="center">MERN & Blockchain Developer | Passionate about React, React-Native, Web3, Smart Contracts & Scalable Web Apps</h3>
 
