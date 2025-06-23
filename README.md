@@ -1,4 +1,3 @@
----
 ## Open Source Contributions
 - [Expensify/App](https://github.com/Expensify/App): Contributed to UI improvements, bug fixes.
   
