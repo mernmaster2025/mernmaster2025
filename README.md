@@ -1,3 +1,7 @@
+---
+## Open Source Contributions
+- [Expensify/App](https://github.com/Expensify/App): Contributed to UI improvements, bug fixes.
+  
 <h1 align="center">Hi 👋, I'm a Mern Master</h1>
 <h3 align="center">MERN & Blockchain Developer | Passionate about React, React-Native, Web3, Smart Contracts & Scalable Web Apps</h3>
 
@@ -8,11 +12,7 @@
 - 📫 How to reach me: **mastermern3@gmail.com**, **mern2025@outlook.com**
 - ⚡ Fun fact: **I love building things that live on the blockchain**
 
----
-
-## Open Source Contributions
-- [Expensify/App](https://github.com/Expensify/App): Contributed to UI improvements, bug fixes.
-  
+ 
 ### 🚀 Tech Stack
 
 **Languages & Frameworks:**
@@ -26,31 +26,10 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=flutter.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=laravel.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=react-native.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mernmaster2025&theme=radical&margin-w=15&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mernmaster2025&show_icons=true&theme=radical" alt="Mern's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mernmaster2025&theme=radical" alt="Mern's GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mernmaster2025&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
 ---
 
 ### 🌐 Connect with Me
