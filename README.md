@@ -28,6 +28,9 @@
 </p>
 ---
 
+![trophy default](https://github-profile-trophy.vercel.app/?username=mernmaster2025&theme=default)
+![trophy dracula](https://github-profile-trophy.vercel.app/?username=mernmaster2025&theme=dracula)
+
 ### 🌐 Connect with Me
 
 <p align="left">
