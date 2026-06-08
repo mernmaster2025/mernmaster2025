@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mern Master!
+# 👋 Hello, I'm a **Senior AI & Full Stack Engineer**!
 
 I'm a **Senior AI & Full Stack Engineer** with a passion for building **AI-Powered Products**, **Enterprise Platforms**, and **Scalable Digital Experiences**. With a strong foundation in both front-end and back-end technologies, I strive to create seamless and efficient solutions that drive innovation and enhance user experiences.
 
@@ -23,6 +23,6 @@ Currently, I am focused on:
 - Cross-Platform Mobile Applications
 
 ## 📫 Contact & Social
-- **Email:** [your-email@example.com](mailto:mern2025@outlook.com.com)
+- **Email:** [mern2025@outlook.com.com](mailto:mern2025@outlook.com.com)
 
 Feel free to reach out for collaboration, inquiries, or just a friendly chat about tech! Let's build something amazing together!
